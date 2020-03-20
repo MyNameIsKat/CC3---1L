@@ -2,10 +2,10 @@ package RPG;
 import java.io.*;
 import java.util.Random;
 /**
- * am using NetBeans to code and i wasn't sure of what to do with 3java classes with different names
- * and all of them inside a package with another name, when netbeans creates the main class the same name as the package name.
- * so I just made a TestCharacter as my main class and renamed the package name as RPG.
- * so i only have three java classes but the package on top indicates that its all in one package named RPG
+ * am using NetBeans to code 
+ * when netbeans creates the main class the same name as the package name.
+ * I made TestCharacter as my main class and renamed the package name as RPG.
+ * the package on top indicates that its all in one package named RPG
  **/
 
 public class TestCharacter {
